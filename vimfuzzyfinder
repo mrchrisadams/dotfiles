@@ -1,0 +1,214 @@
+VERSION	217
+MruCmd.data	{'word': ':w', 'time': 1247995080}
+MruCmd.data	{'word': ':q', 'time': 1247990555}
+MruCmd.data	{'word': ':tabe', 'time': 1247990516}
+MruCmd.data	{'word': ':s', 'time': 1247985737}
+MruCmd.data	{'word': ':%s/wp_2n1zx7_/wp_/g', 'time': 1247950888}
+MruCmd.data	{'word': '/2n1', 'time': 1247950876}
+MruCmd.data	{'word': ':%s/wp_2n1zx7_/wp_', 'time': 1247950703}
+MruCmd.data	{'word': ':help search-replace', 'time': 1247950475}
+MruCmd.data	{'word': ':tabedit', 'time': 1247950466}
+MruCmd.data	{'word': ':%s/chck/check', 'time': 1247948463}
+MruCmd.data	{'word': ':tabe debugging_wordpress.mkd', 'time': 1247948311}
+MruCmd.data	{'word': ':help netrw', 'time': 1247944585}
+MruCmd.data	{'word': ':close', 'time': 1247933623}
+MruCmd.data	{'word': ':close!', 'time': 1247933614}
+MruCmd.data	{'word': ':shell', 'time': 1247929982}
+MruCmd.data	{'word': ':w!', 'time': 1247929970}
+MruCmd.data	{'word': ':tabe /etc/apt/sources.list', 'time': 1247929918}
+MruCmd.data	{'word': ':e /etc/apt/sources.list', 'time': 1247929903}
+MruCmd.data	{'word': '/simpp', 'time': 1247929582}
+MruCmd.data	{'word': ':FuzzyFinderTextMate', 'time': 1247929565}
+MruCmd.data	{'word': ':colorscheme desert', 'time': 1247929525}
+MruCmd.data	{'word': ':%s/textmate/Textmate', 'time': 1247929507}
+MruCmd.data	{'word': '/ab', 'time': 1247929463}
+MruCmd.data	{'word': '/hou', 'time': 1247929450}
+MruCmd.data	{'word': '?hou', 'time': 1247929422}
+MruCmd.data	{'word': ':execute ''NERDTreeToggle '' . getcwd()', 'time': 1247929366}
+MruCmd.data	{'word': ':gvim ~/.screenrc', 'time': 1247929060}
+MruCmd.data	{'word': ':.', 'time': 1247928824}
+MruCmd.data	{'word': ':wq', 'time': 1247928086}
+MruCmd.data	{'word': ':Bookmark notifications', 'time': 1247921085}
+MruCmd.data	{'word': ':Bookmark', 'time': 1247921057}
+MruCmd.data	{'word': ':helptags ~/.vim/doc/', 'time': 1247920659}
+MruCmd.data	{'word': ':helpgrep rails', 'time': 1247920602}
+MruCmd.data	{'word': ':help rails', 'time': 1247920595}
+MruCmd.data	{'word': ':r !spec', 'time': 1247919319}
+MruCmd.data	{'word': ':tabe ~/.autotest', 'time': 1247918716}
+MruCmd.data	{'word': ':100', 'time': 1247918501}
+MruCmd.data	{'word': ':e ~/.autotest', 'time': 1247918084}
+MruCmd.data	{'word': ':qall', 'time': 1247917574}
+MruCmd.data	{'word': ':e ~/.vimrc', 'time': 1247917544}
+MruCmd.data	{'word': ':FuzzyFinderFile', 'time': 1247917526}
+MruCmd.data	{'word': ':qall!', 'time': 1247917438}
+MruCmd.data	{'word': ':q!', 'time': 1247917435}
+MruCmd.data	{'word': ':pwd', 'time': 1247917080}
+MruCmd.data	{'word': ':e ~/.vim/plugin/fuzzyfinder_textmate.vim', 'time': 1247917020}
+MruCmd.data	{'word': ':help :FuzzyFinder', 'time': 1247916825}
+MruCmd.data	{'word': ':help FuzzyTextMate ', 'time': 1247916795}
+MruCmd.data	{'word': ':cd c_notes/', 'time': 1247916679}
+MruCmd.data	{'word': ':edit c_notes/', 'time': 1247916671}
+MruCmd.data	{'word': ':set', 'time': 1247916321}
+MruCmd.data	{'word': ':help', 'time': 1247916088}
+MruCmd.data	{'word': '/multiple', 'time': 1247915242}
+MruCmd.data	{'word': '/multi', 'time': 1247915189}
+MruCmd.data	{'word': ':help fuzzyfinder.txt@en', 'time': 1247915007}
+MruCmd.data	{'word': ':tabe .vimrc', 'time': 1247911543}
+MruCmd.data	{'word': ':edit .vimrc', 'time': 1247911535}
+MruCmd.data	{'word': ':FuzzyFinderBuffer', 'time': 1247911514}
+MruCmd.data	{'word': ':e c_notes/Journal/Saturday-morning-vim.mkd', 'time': 1247911465}
+MruCmd.data	{'word': ':saveas Saturday-morning-vim.mkd', 'time': 1247910377}
+MruCmd.data	{'word': ':reg', 'time': 1247909791}
+MruCmd.data	{'word': ':help yank', 'time': 1247909656}
+MruCmd.data	{'word': ':ls', 'time': 1247909619}
+MruCmd.data	{'word': ':r !date ', 'time': 1247909513}
+MruCmd.data	{'word': ':r !date <CR>kj', 'time': 1247909501}
+MruCmd.data	{'word': ':!date', 'time': 1247909493}
+MruCmd.data	{'word': ':!date <CR>kj', 'time': 1247909485}
+MruCmd.data	{'word': ':tabedit Saturday-morning-vim', 'time': 1247909461}
+MruCmd.data	{'word': ':e fuzzyfinder_textmate.vim', 'time': 1247909298}
+MruCmd.data	{'word': '/tab ', 'time': 1247908798}
+MruCmd.data	{'word': ':help split', 'time': 1247908778}
+MruCmd.data	{'word': ':split tab', 'time': 1247908753}
+MruCmd.data	{'word': ':split', 'time': 1247908733}
+MruCmd.data	{'word': ':splitt', 'time': 1247908729}
+MruCmd.data	{'word': ':tabe ', 'time': 1247908357}
+MruCmd.data	{'word': ':tabe /usr/share/vim/vim72/filetype.vim', 'time': 1247908223}
+MruCmd.data	{'word': ':tabe ~/.vim/filetype.vim', 'time': 1247908152}
+MruCmd.data	{'word': '/color', 'time': 1247907321}
+MruCmd.data	{'word': ':e .vimrc', 'time': 1247907269}
+MruCmd.data	{'word': ':tabe ~/.vim/', 'time': 1247906050}
+MruCmd.data	{'word': ':e ~/.vim', 'time': 1247906043}
+MruCmd.data	{'word': ':tabe $VIM', 'time': 1247905982}
+MruCmd.data	{'word': ':e $VIM', 'time': 1247905972}
+MruCmd.data	{'word': ':e c_notes/Nag\ Notes.markdown', 'time': 1247905841}
+MruCmd.data	{'word': ':e ~/.vim/filetype.vim', 'time': 1247905736}
+MruCmd.data	{'word': ':edit /usr/share/vim/vim72/filetype.vim', 'time': 1247905694}
+MruCmd.data	{'word': ':edit -r /usr/share/vim/vim72/filetype.vim', 'time': 1247905686}
+MruCmd.data	{'word': ':!cd ~', 'time': 1247905310}
+MruCmd.data	{'word': ':cd ~', 'time': 1247905303}
+MruCmd.data	{'word': ':e filetype.vim', 'time': 1247904923}
+MruCmd.data	{'word': ':saveas filetype.vim', 'time': 1247904909}
+MruCmd.data	{'word': ':tabe new.mkd', 'time': 1247904530}
+MruCmd.data	{'word': ':helpgrep tcroqn2', 'time': 1247904495}
+MruCmd.data	{'word': ':tabedit ~/.vimrc', 'time': 1247904324}
+MruCmd.data	{'word': ':tabe help', 'time': 1247904190}
+MruCmd.data	{'word': ':e ~/.vim/syntax/markdown.vim', 'time': 1247904117}
+MruCmd.data	{'word': ':w ~/.vim/syntax/markdown.vim', 'time': 1247904111}
+MruCmd.data	{'word': ':!mkdir ~/.vim/syntax', 'time': 1247904074}
+MruCmd.data	{'word': ':e ~/.vim/plugin/', 'time': 1247903819}
+MruCmd.data	{'word': ':helpgrep augroup', 'time': 1247903585}
+MruCmd.data	{'word': ':e $VIMRUNTIME', 'time': 1247903387}
+MruCmd.data	{'word': ':cd $VIMRUNTIME', 'time': 1247903293}
+MruCmd.data	{'word': ':ls $VIM', 'time': 1247903217}
+MruCmd.data	{'word': ':filetype plugin on', 'time': 1247903183}
+MruCmd.data	{'word': ':filetype plugins on', 'time': 1247903160}
+MruCmd.data	{'word': ':tabe testing.mkd', 'time': 1247903147}
+MruCmd.data	{'word': '/map', 'time': 1247902936}
+MruCmd.data	{'word': ':tabe ~/.vimrc', 'time': 1247902777}
+MruCmd.data	{'word': ':colorcheme desert', 'time': 1247902326}
+MruCmd.data	{'word': ':tb', 'time': 1247902299}
+MruCmd.data	{'word': ':tabhelp', 'time': 1247902296}
+MruCmd.data	{'word': ':closs', 'time': 1247901268}
+MruCmd.data	{'word': ':clast', 'time': 1247900916}
+MruCmd.data	{'word': ':helpgrep abbreviation', 'time': 1247900897}
+MruCmd.data	{'word': ':helpgrep abb', 'time': 1247900881}
+MruCmd.data	{'word': '/abb', 'time': 1247900873}
+MruCmd.data	{'word': ':iunmap aa', 'time': 1247900809}
+MruCmd.data	{'word': ':iunmap aa wooblescooble', 'time': 1247900797}
+MruCmd.data	{'word': ':imap aa wooblescooble', 'time': 1247900708}
+MruCmd.data	{'word': '/usr_3', 'time': 1247900291}
+MruCmd.data	{'word': ':usr_3', 'time': 1247900286}
+MruCmd.data	{'word': ':set foldmethod=indent', 'time': 1247899948}
+MruCmd.data	{'word': '/usr_23', 'time': 1247899268}
+MruCmd.data	{'word': ':edit .', 'time': 1247899038}
+MruCmd.data	{'word': '/diff', 'time': 1247898526}
+MruCmd.data	{'word': ':vnew', 'time': 1247898455}
+MruCmd.data	{'word': ':splitbelow', 'time': 1247898401}
+MruCmd.data	{'word': ':tab help gt', 'time': 1247898243}
+MruCmd.data	{'word': ':gt', 'time': 1247898190}
+MruCmd.data	{'word': ':gt 4', 'time': 1247898188}
+MruCmd.data	{'word': ':tab split', 'time': 1247871498}
+MruCmd.data	{'word': ':only', 'time': 1247871366}
+MruCmd.data	{'word': ':vsplit', 'time': 1247871319}
+MruCmd.data	{'word': '/buffer', 'time': 1247870869}
+MruCmd.data	{'word': ':	:set listchars=tab:>-,trail:-', 'time': 1247870529}
+MruCmd.data	{'word': ':set list', 'time': 1247870401}
+MruCmd.data	{'word': ':options', 'time': 1247870157}
+MruCmd.data	{'word': '/07.', 'time': 1247870087}
+MruCmd.data	{'word': '/5.5', 'time': 1247870002}
+MruCmd.data	{'word': ':NERDTree', 'time': 1247869820}
+MruCmd.data	{'word': ':help local-additions', 'time': 1247869774}
+MruCmd.data	{'word': ':help g%', 'time': 1247869709}
+MruCmd.data	{'word': ':!rm ~/.vim/plugin/matchit.txt', 'time': 1247869646}
+MruCmd.data	{'word': ':!cp /usr/share/vim/vim72/macros/matchit.vim ~/.vim/plugin/', 'time': 1247869601}
+MruCmd.data	{'word': ':!cp /usr/share/vim/vim72/macros/matchit.txt ~/.vim/doc/', 'time': 1247869594}
+MruCmd.data	{'word': ':!cp /usr/share/vim/vim72/macros/matchit.txt ~/.vim/plugin/', 'time': 1247869550}
+MruCmd.data	{'word': '/05.5', 'time': 1247867714}
+MruCmd.data	{'word': ':help add-local-help', 'time': 1247867616}
+MruCmd.data	{'word': ':w ''Useful Rails trick for passwords''', 'time': 1247867477}
+MruCmd.data	{'word': ':w "Useful Rails tricdk for passwords"', 'time': 1247867467}
+MruCmd.data	{'word': ':w Useful Rails tricdk for passwords', 'time': 1247867457}
+MruCmd.data	{'word': ':tabp', 'time': 1247867398}
+MruCmd.data	{'word': ':''<,''>tabe', 'time': 1247867101}
+MruCmd.data	{'word': ':helptags', 'time': 1247866829}
+MruFile.data	{'word': '/home/chris/debugging_wordpress.mkd', 'time': 1247998413}
+MruFile.data	{'word': '/etc/hosts', 'time': 1247995080}
+MruFile.data	{'word': '/etc/hosta', 'time': 1247985766}
+MruFile.data	{'word': '/home/chris/c_notes/Journal/Saturday-morning-vim.mkd', 'time': 1247933617}
+MruFile.data	{'word': '/home/chris/c_notes/.git/COMMIT_EDITMSG', 'time': 1247933361}
+MruFile.data	{'word': '/etc/apt/sources.list', 'time': 1247930034}
+MruFile.data	{'word': '/home/chris/NERD_tree_1', 'time': 1247929367}
+MruFile.data	{'word': '/home/chris/.screenrc', 'time': 1247929086}
+MruFile.data	{'word': '/home/chris/.vimrc', 'time': 1247929036}
+MruFile.data	{'word': '/home/chris/Code/thenag/app/views/notifications/intent_reminder.erb', 'time': 1247921100}
+MruFile.data	{'word': '/home/chris/Code/thenag/NERD_tree_1', 'time': 1247920998}
+MruFile.data	{'word': '/home/chris/Code/thenag/vendor/plugins/email-spec/spec/spec.opts', 'time': 1247920065}
+MruFile.data	{'word': '/home/chris/Code/thenag/vendor/plugins/email-spec/examples/rails_root/spec/spec.opts', 'time': 1247920055}
+MruFile.data	{'word': '/home/chris/Code/thenag/[Fuzzyfinder]', 'time': 1247920043}
+MruFile.data	{'word': '/home/chris/Code/thenag/spec/models/action_spec.rb', 'time': 1247919916}
+MruFile.data	{'word': '/home/chris/.autotest', 'time': 1247918716}
+MruFile.data	{'word': '/home/chris/Code/thenag/config/environment.rb', 'time': 1247917841}
+MruFile.data	{'word': '/home/chris/Code/thenag/app/helpers/pages_helper.rb', 'time': 1247917611}
+MruFile.data	{'word': '/home/chris/.vim/plugin/fuzzyfinder_textmate.vim', 'time': 1247917435}
+MruFile.data	{'word': '/home/chris/[Fuzzyfinder]', 'time': 1247917153}
+MruFile.data	{'word': '/home/chris/Code/thenag/db/migrate/20090517152631_add_hotness_to_thoughts_actions_and_feedback.rb', 'time': 1247916531}
+MruFile.data	{'word': '/home/chris/.vimfuzzyfinder', 'time': 1247911406}
+MruFile.data	{'word': '/home/chris/fuzzyfinder_textmate.vim', 'time': 1247911375}
+MruFile.data	{'word': '/home/chris/c_notes/Journal/NERD_tree_3', 'time': 1247910451}
+MruFile.data	{'word': '/home/chris/c_notes/Journal/Saturday-morning-vim', 'time': 1247910353}
+MruFile.data	{'word': '/home/chris/c_notes/Journal/NERD_tree_2', 'time': 1247910327}
+MruFile.data	{'word': '/home/chris/c_notes/how to backup.markdown', 'time': 1247908854}
+MruFile.data	{'word': '/home/chris/tab', 'time': 1247908754}
+MruFile.data	{'word': '/home/chris/c_notes/Using Sphinx.blog.rst', 'time': 1247908352}
+MruFile.data	{'word': '/home/chris/c_notes/Journal/journal-15th-jul', 'time': 1247908351}
+MruFile.data	{'word': '/usr/share/vim/vim72/filetype.vim', 'time': 1247908351}
+MruFile.data	{'word': '/home/chris/.vim/filetype.vim', 'time': 1247908350}
+MruFile.data	{'word': '/home/chris/c_notes/finding a greenhost.markdown', 'time': 1247908260}
+MruFile.data	{'word': '/home/chris/c_notes/Journal/getting_used_to_vim_fri_17th', 'time': 1247908256}
+MruFile.data	{'word': '/home/chris/c_notes/Journal/journal_17th_july-fri_nite', 'time': 1247908250}
+MruFile.data	{'word': '/home/chris/c_notes/demos report.txt', 'time': 1247908248}
+MruFile.data	{'word': '/home/chris/c_notes/FT compo.txt', 'time': 1247908248}
+MruFile.data	{'word': '/home/chris/c_notes/Mail.txt', 'time': 1247908247}
+MruFile.data	{'word': '/home/chris/c_notes/chrisadams.me.uk.txt', 'time': 1247907790}
+MruFile.data	{'word': '/home/chris/c_notes/Nag Notes.markdown', 'time': 1247906480}
+MruFile.data	{'word': '/home/chris/.vim/plugin/fuzzyfinder_textmate/README', 'time': 1247906173}
+MruFile.data	{'word': '/home/chris/testing.mkd', 'time': 1247905798}
+MruFile.data	{'word': '/usr/share/vim/vim72/new.mkd', 'time': 1247905788}
+MruFile.data	{'word': '/usr/share/vim/vim72/help', 'time': 1247905785}
+MruFile.data	{'word': '/home/chris/.vim/syntax/markdown.vim', 'time': 1247904893}
+MruFile.data	{'word': '/home/chris/''Useful Rails trick for passwords''', 'time': 1247901274}
+MruFile.data	{'word': '/home/chris/option-window', 'time': 1247870161}
+MruFile.data	{'word': '/home/chris/git-wiki/README.markdown', 'time': 1247869862}
+MruFile.data	{'word': '/home/chris/NERD_tree_2', 'time': 1247869859}
+File.stats	{'word': 'c_notes/', 'base': 'c_n'}
+File.stats	{'word': 'Code/thenag/', 'base': 'Code/th'}
+File.stats	{'word': 'c_notes/Journal/Saturday-morning-vim.mkd', 'base': 'c_notes/Journal/'}
+File.stats	{'word': 'c_notes/Journal/', 'base': 'c_notes/j'}
+File.stats	{'word': 'c_notes/', 'base': 'c_'}
+File.stats	{'word': 'c_notes/Journal/journal_17th_july-fri_nite', 'base': 'c_notes/Journal/'}
+TextMate.stats	{'word': 'vendor/plugins/email-spec/spec/spec.opts', 'base': 'spec.op'}
+TextMate.stats	{'word': 'spec/models/action_spec.rb', 'base': 'action'}
+TextMate.stats	{'word': 'vendor/plugins/email-spec/examples/rails_root/spec/spec.opts', 'base': 'spec'}
+TextMate.stats	{'word': 'app/helpers/pages_helper.rb', 'base': 'pages.'}
+TextMate.stats	{'word': 'Code/thenag/db/migrate/20090517152631_add_hotness_to_thoughts_actions_and_feedback.rb', 'base': 'feedback.rb'}

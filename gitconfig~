@@ -1,6 +1,6 @@
 [user]
-	name = Chris Adams
-	email = chris@stemcel.co.uk
+	name = Ryan Bates
+	email = ryan@railscasts.com
 [alias]
 	co = checkout
 [color]
@@ -8,5 +8,7 @@
 	status = auto
 	branch = auto
 [core]
+	excludesfile = /Users/rbates/.gitignore
+	editor = mate -w
 [apply]
 	whitespace = nowarn
