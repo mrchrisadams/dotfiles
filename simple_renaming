@@ -1,8 +1,0 @@
-### Really simple renaming script to find hidden vim config files and make them unhidden:
-
-
-Dir.glob('.vi').each do |f|
-  name = f.gsub('.vi', `vi`)
-  File.rename(f, name)
-end
-

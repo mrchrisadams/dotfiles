@@ -1,3 +1,4 @@
+# Load completions for git, and Ruby
 autoload -U compinit
 compinit
 
