@@ -1,6 +1,3 @@
-. ~/.zsh/config
-. ~/.zsh/aliases
-. ~/.zsh/completion
-
-# use .localrc for settings specific to one system
-[[ -f ~/.localrc ]] && .  ~/.localrc
+. dotfiles/zsh/config
+. dotfiles/zsh/aliases
+. dotfiles/zsh/completion
