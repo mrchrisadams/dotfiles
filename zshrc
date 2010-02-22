@@ -1,3 +1,4 @@
+. dotfiles/zsh/colors
 . dotfiles/zsh/config
 . dotfiles/zsh/aliases
 . dotfiles/zsh/completion
