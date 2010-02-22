@@ -7,3 +7,9 @@ zstyle ':completion:*' matcher-list 'm:{a-z}={A-Z}'
 
 # pasting with tabs doesn't perform completion
 zstyle ':completion:*' insert-tab pending
+
+# TODO explain this
+zstyle ':completion:*:descriptions' format '%U%B%d%b%u'
+
+# Se this warning message when you can't find matching commands
+zstyle ':completion:*:warnings' format '%BSorry, no matches for: %d%b'
