@@ -36,3 +36,12 @@ alias rst='touch tmp/restart.txt'
 
 # changing directory to code project
 function c { cd ~/Code/$1; }
+
+# make a blog post in markdown
+# this should be turned into a proper ruby script, with titles, dates and such like
+function blog-post {
+	mate $(date "+%Y-%m-%d")-$1.markdown;
+}
+
+
+
