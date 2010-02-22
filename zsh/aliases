@@ -3,9 +3,10 @@ alias ..='cd ..'
 
 # ls
 alias ls="ls -F"
-alias l="ls -lAh"
-alias ll="ls -l"
 alias la='ls -A'
+alias ll="ls -l"
+alias lla='ls -lAFh'   #long list,show almost all,show type,human readable
+alias lr='ls -tRFh'   #sorted by date,recursive,show type,human readable
 
 # git
 alias gl='git pull'
