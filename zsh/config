@@ -2,12 +2,13 @@ export EDITOR='mate -w'
 export PATH="~/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/git/bin:$PATH"
 export MANPATH="/usr/local/man:/usr/local/mysql/man:/usr/local/git/man:$MANPATH"
 
-# Show the current directory of your shell
-# http://www.acm.uiuc.edu/workshops/zsh/prompt/escapes.html
-PS1="%~ "
-# fpath=(~/.zsh/functions $fpath)
+# add rvm in
+if [[ -s /Users/chrisadams/.rvm/scripts/rvm ]] ; then source /Users/chrisadams/.rvm/scripts/rvm ; fi
 
-# autoload -U ~/.zsh/functions/*(:t)
+# show prompt with colours, and add newline to begin prompt beneath full path
+PROMPT="
+${fg_lgreen}%n@${at_underl}%m${at_underloff}${fg_white}[${fg_cyan}%~${fg_white}]
+[${fg_green}%T${fg_white}]:${at_normal}"
 
 setopt NO_BG_NICE # don't nice background tasks
 setopt NO_HUP
