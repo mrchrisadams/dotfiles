@@ -37,3 +37,21 @@ setopt IGNORE_EOF
 
 REPORTTIME=10 # shows elapsed time if command is longer than 10 seconds
 LISTMAX=0 
+
+#Set the auto completion on
+autoload -U compinit
+compinit
+ 
+#Lets set some options
+setopt correctall
+setopt autocd
+setopt auto_resume
+ 
+## Enables the extgended globbing features
+setopt extendedglob
+ 
+
+HISTFILE=~/.zsh-histfile
+HISTSIZE=1000
+SAVEHIST=1000
+ 
