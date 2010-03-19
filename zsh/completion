@@ -1,6 +1,8 @@
-# Load completions for git, and Ruby
-autoload -U compinit
-compinit
+# Load completions 
+autoload -U compinit && compinit
+autoload colors && colors
+# autoload -U zmv
+
 
 # matches case insensitive for lowercase
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Z}'
