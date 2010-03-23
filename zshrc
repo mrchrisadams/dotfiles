@@ -4,3 +4,6 @@
 . dotfiles/zsh/completion
 
 if [[ -s /Users/chrisadams/.rvm/scripts/rvm ]] ; then source /Users/chrisadams/.rvm/scripts/rvm ; fi
+
+# switch to this week's dir for notes
+# today 
