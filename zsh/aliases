@@ -44,5 +44,15 @@ function blog-post {
 	mate $(date "+%Y-%m-%d")-$1.markdown;
 }
 
+# jump to m1y wiki
+function mw {
+  cd ~/Dropbox/mywiki
+}
 
+# search my wiki for notes
+function mws {
+  cd ~/Dropbox/mywiki
+  ack $1
+}
 
+alias today="date '+%Y-%m-%d'"
