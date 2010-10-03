@@ -1,4 +1,4 @@
-export EDITOR='mate -w'
+export EDITOR='mvim -f'
 export PATH="$HOME/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/git/bin:$PATH"
 export MANPATH="/usr/local/man:/usr/local/mysql/man:/usr/local/git/man:$MANPATH"
 
@@ -56,11 +56,13 @@ zstyle ':vcs_info:*' disable bzr # gratuitously slow
 zstyle ':vcs_info:*' formats ' [%b]'
 
 # show prompt with colours, and add newline to begin prompt beneath full path
+# note - you need the %} symbols when closing the colour declarations, because
+# without them zsh doesn't know how wide to keep your prompt
 PROMPT="%{${fg_lgreen}%}%n@%{${at_underl}%}%m%{${at_underloff}%}%{${fg_white}%}[%{${fg_cyan}%}%~%{${fg_white}%}] %{${vcs_info_msg_0_}%}
-[%{${fg_green}%T%{${fg_white}%}]%{${at_normal}%}"
+[%{${fg_green}%}%T%{${fg_white}%}]%{${at_normal}%}"
 
 # Make a directory for the crap I generate each day so at least there's degree of tidyness
-mkdir -p ~/Desktop/$(date +"%Y-%m-%d")-Mess
+#mkdir -p ~/Desktop/$(date +"%Y-%m-%d")-Mess
 
 # Likewise for my downloads:
-mkdir -p ~/Downloads/$(date +"%Y-%m-%d")-Mess
+# mkdir -p ~/Downloads/$(date +"%Y-%m-%d")-Mess
