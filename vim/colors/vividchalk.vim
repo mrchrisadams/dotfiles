@@ -1,4 +1,5 @@
-" Vim color scheme
+"
+"Vim color scheme
 " Name:         vividchalk.vim
 " Author:       Tim Pope <vimNOSPAM@tpope.info>
 " Version:      2.0
