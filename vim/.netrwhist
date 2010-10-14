@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/chrisadams/Code/gccsi'
-let g:netrw_dirhist_2='/Users/chrisadams/Code/gccsi/trunk'
-let g:netrw_dirhist_3='/Users/chrisadams/Code/gccsi/trunk/docroot'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/chrisadams/.oh-my-zsh'
+let g:netrw_dirhist_2='/Users/chrisadams/.oh-my-zsh/templates'
+let g:netrw_dirhist_3='/Users/chrisadams/dotfiles'
+let g:netrw_dirhist_4='/Users/chrisadams/dotfiles/zsh'
+let g:netrw_dirhist_5='/Users/chrisadams/Code/dotfiles/zsh'
