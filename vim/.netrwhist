@@ -1,7 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/Users/chrisadams/.oh-my-zsh'
-let g:netrw_dirhist_2='/Users/chrisadams/.oh-my-zsh/templates'
-let g:netrw_dirhist_3='/Users/chrisadams/dotfiles'
-let g:netrw_dirhist_4='/Users/chrisadams/dotfiles/zsh'
-let g:netrw_dirhist_5='/Users/chrisadams/Code/dotfiles/zsh'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/chrisadams/Dropbox/mywiki'
+let g:netrw_dirhist_2='/Users/chrisadams/.chef'
+let g:netrw_dirhist_3='/Users/chrisadams/.rvm/gems/ruby-1.8.7-p249/gems/chef-0.9.12/lib/chef/knife/bootstrap'

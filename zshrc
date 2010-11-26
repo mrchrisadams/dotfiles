@@ -3,7 +3,7 @@ export ZSH=$HOME/.oh-my-zsh
 
 # Set to the name theme to load.
 # Look in ~/.oh-my-zsh/themes/
-export ZSH_THEME="kennethreitz"
+export ZSH_THEME="mrchrisadams"
 
 # Set to this to use case-sensitive completion
 # export CASE_SENSITIVE="true"
@@ -16,7 +16,7 @@ export ZSH_THEME="kennethreitz"
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git osx ruby gem cap)
+plugins=(git osx ruby gem cap brew ssh-agent)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -29,3 +29,9 @@ export EDITOR='mvim -f'
 export PATH="$HOME/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/git/bin:$PATH"
 export MANPATH="/usr/local/man:/usr/local/mysql/man:/usr/local/git/man:$MANPATH"
 
+# add handy jump in for notational velocity in Vim
+alias nv='cd ~/Dropbox/mywiki/;mvim .'
+
+# Add rvm to give us RVM
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"  # This loads RVM into a shell session.
