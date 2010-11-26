@@ -3,6 +3,7 @@
 	email = chris@stemcel.co.uk
 [alias]
 	co = checkout
+	st = status
 [color]
 	diff = auto
 	status = auto
