@@ -22,7 +22,7 @@ IRB.conf[:HISTORY_FILE] = "#{ENV['HOME']}/.irb_history"
 
 # IRB.conf[:PROMPT_MODE] = :SIMPLE
 
-IRB.conf[:AUTO_INDENT] = true
+# IRB.conf[:AUTO_INDENT] = true
   
   
   
@@ -72,9 +72,9 @@ IRB.conf[:PROMPT][:CUSTOM] = {
   :PROMPT_S =>    Wirble::Colorize.colorize_string(">> ", :green),
   :PROMPT_C => "#{Wirble::Colorize.colorize_string('..' , :cyan)} ",
   :PROMPT_N => "#{Wirble::Colorize.colorize_string('..' , :cyan)} ",
-  :RETURN   => "#{Wirble::Colorize.colorize_string('→'  , :light_red)} %s\n"
+  # :RETURN   => "#{Wirble::Colorize.colorize_string('→'  , :light_red)} %s\n"
 }
-IRB.conf[:PROMPT_MODE] = :CUSTOM
+# IRB.conf[:PROMPT_MODE] = :CUSTOM
 
 
 class Object
