@@ -13,12 +13,12 @@ export DISABLE_AUTO_UPDATE="true"
 #
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git osx ruby gem cap brew ssh-agent)
+plugins=(git osx ruby gem cap brew ssh-agent amee)
 
 source $ZSH/oh-my-zsh.sh
 
 # Personal changes to shell as follows 
-export EDITOR='mvim -f'
+export EDITOR='mate -w'
 
 # set local paths for mysql et al
 export PATH="$HOME/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/git/bin:$PATH"
@@ -26,7 +26,7 @@ export MANPATH="/usr/local/man:/usr/local/mysql/man:/usr/local/git/man:$MANPATH"
 
 
 function edit-unmerged () {
- mvim `git ls-files --unmerged | cut -f2 | sort -u`
+ $EDITOR `git ls-files --unmerged | cut -f2 | sort -u`
 }
 
 function add-unmerged () {
