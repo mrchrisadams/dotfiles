@@ -9,29 +9,21 @@ export ZSH_THEME="mrchrisadams"
 # export CASE_SENSITIVE="true"
 
 # Comment this out to disable weekly auto-update checks
-export DISABLE_AUTO_UPDATE="true"
+# export DISABLE_AUTO_UPDATE="true"
 #
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git osx ruby gem cap brew ssh-agent)
+plugins=(git osx ruby gem cap brew ssh-agent bundle)
 
 source $ZSH/oh-my-zsh.sh
 
 # Personal changes to shell as follows 
-export EDITOR='mvim -f'
+export EDITOR='mate -w'
 
 # set local paths for mysql et al
 export PATH="$HOME/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/git/bin:$PATH"
 export MANPATH="/usr/local/man:/usr/local/mysql/man:/usr/local/git/man:$MANPATH"
 
-
-function edit-unmerged () {
- mvim `git ls-files --unmerged | cut -f2 | sort -u`
-}
-
-function add-unmerged () {
- git add `git ls-files --unmerged | cut -f2 | sort -u`
-}
 # Fix for the weird ~rvm_rvmrc_cwd bug
 # http://rvm.beginrescueend.com/integration/zsh/
 unsetopt auto_name_dirs
